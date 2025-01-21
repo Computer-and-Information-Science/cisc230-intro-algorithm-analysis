@@ -24,5 +24,4 @@ Answer these questions for the following programs:
 - sreverse2.cpp
 - permute.cpp
 - tower.cpp
-- fibonacci1.cpp (presented in video lesson)
 - fibonacci2.cpp (presented in video lesson)
